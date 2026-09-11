@@ -1,4 +1,5 @@
 <!-- MODELO PROJETO FINALIZADO -->
+
 <h1 align="center"> 
 	  🚀✅ {Site Acaepa} - Concluído ✅🚀
 </h1>
@@ -6,19 +7,21 @@
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO MENU DE NAVEGAÇÃO -->
+
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
+ <a href="#-o-que-eu-fiz">O que eu fiz</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-resultados-obtidos">Resultados Obtidos</a> •
-  <a href="#-autor">Autor</a>
+ <a href="#-autor">Autor</a>
 </p>
 
 <!-- MODELO DESCRIÇÃO SOBRE O PROJETO: -->
+
 ## 💻 Sobre o projeto
 
-<!-- EXPLICA O MOTIVO DO PROJETO -->
 {acaepa} Projeto Acadêmico - Desenvolvimento de Site Institucional para Associação.
 
 Este projeto foi desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS), com o objetivo de criar um site institucional para uma associação que possuía presença digital apenas por meio das redes sociais Facebook e Instagram.
@@ -26,34 +29,55 @@ Este projeto foi desenvolvido como atividade acadêmica do curso de Análise e D
 A proposta foi desenvolver uma plataforma própria para centralizar informações, aumentar a visibilidade da associação e facilitar o acesso do público aos seus projetos, atividades e formas de contato.
 
 O desenvolvimento foi realizado por uma equipe de 10 estudantes, onde cada integrante contribuiu em diferentes etapas do projeto. Após a apresentação inicial para a associação, foram realizados ajustes e melhorias com base nos feedbacks recebidos, resultando na versão final publicada na plataforma Netlify.
+
 <!-- LINHA DE DIVISÃO: -->
+
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO FUNCIONALIDADES: -->
+
 ## ⚙️ Funcionalidades
 
-- Página inicial da associação. ( feito por MAxwell e eros)
-- Apresentação da associação. ( feito pelo  Edson e Kauã)
-- Exibição de projetos e atividades. ( feito por Gustavo)
-- Depoimentos de alunos. (feito pelo Rodrigo)
-- Galeria de fotos com os projetos. (feito pelo Matheus e João Medeiros)
-- Blog sobre a associação. (feito pela Esthefany)
-- Área de contato. (Feito pelo João Henrique)
-- Layout responsivo para dispositivos móveis e desktop.
-- Navegação intuitiva e acessível.
+* Página inicial da associação. ( feito por MAxwell e eros)
+* Apresentação da associação. ( feito pelo  Edson e Kauã)
+* Exibição de projetos e atividades. ( feito por Gustavo)
+* Depoimentos de alunos. (feito pelo Rodrigo)
+* Galeria de fotos com os projetos. (feito pelo Matheus e João Medeiros)
+* Blog sobre a associação. (feito pela Esthefany)
+* Área de contato. (Feito pelo João Henrique)
+* Layout responsivo para dispositivos móveis e desktop.
+* Navegação intuitiva e acessível.
+
+---
+
+## 👨‍💻 O que eu fiz
+
+Fui responsável pelo desenvolvimento da **página "Sobre"** do site, trabalhando principalmente na estrutura, estilização e interatividade da página.
+
+Minhas contribuições incluíram:
+
+* Desenvolvimento da estrutura da página utilizando **HTML5**;
+* Criação e estilização do layout utilizando **CSS3**;
+* Implementação de funcionalidades e interações utilizando **JavaScript**;
+* Organização dos elementos da página para proporcionar uma navegação clara e uma boa experiência ao usuário;
+* Ajustes de responsividade para diferentes tamanhos de tela.
+
+Essa etapa me proporcionou experiência prática no desenvolvimento de interfaces web e na integração entre **HTML, CSS e JavaScript** em um projeto desenvolvido em equipe.
 
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- EXEMPLO DE LAYOUT: -->
+
 ## 🎨 Layout
 
 ### Widget
 
 <!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
+
 ![Mobile1](https://github.com/Site-Acaepa/acaepa/blob/main/images/paginainicial.png)<br>
 ![Mobile1](https://github.com/Site-Acaepa/acaepa/blob/main/images/sobrenos.png)<br>
 ![Mobile1](https://github.com/Site-Acaepa/acaepa/blob/main/images/projetos.png)<br>
@@ -69,20 +93,22 @@ O desenvolvimento foi realizado por uma equipe de 10 estudantes, onde cada integ
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE TECNOLOGIAS -->
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- HTML5
-- CSS3
-- JavaScript
-- Netlify (Hospedagem)
+* HTML5
+* CSS3
+* JavaScript
+* Netlify (Hospedagem)
 
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
+
 ## 💪 Resultados Obtidos
 
 O projeto proporcionou uma experiência prática de desenvolvimento de software voltado para uma necessidade real, contribuindo para o aprendizado em trabalho em equipe, desenvolvimento web, comunicação com clientes e implantação de aplicações.
@@ -94,41 +120,40 @@ O projeto proporcionou uma experiência prática de desenvolvimento de software 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- MODELO DE AUTOR-->
+
 ## 🦸 Autor
 
 <a href="https://github.com/EsthefanySantos">
 Esthefany Santos</a>
- <br />
+<br />
 
- <a href="https://github.com/matheusrsdeveloper">
+<a href="https://github.com/matheusrsdeveloper">
 Matheus Rodrigues</a>
- <br />
+<br />
 
- <a href="https://github.com/kauagomesb">
+<a href="https://github.com/kauagomesb">
 Kauã Gomes</a>
- <br />
+<br />
 
- <a href="https://github.com/JoaoMedeiros-Desenvolvedor">
+<a href="https://github.com/JoaoMedeiros-Desenvolvedor">
 João Medeiros</a>
- <br />
+<br />
 
- <a href="https://github.com/maxwellsantnew">
+<a href="https://github.com/maxwellsantnew">
 Maxwell Ryan</a>
- <br />
+<br />
 
- <a href="https://github.com/Rod1357">
+<a href="https://github.com/Rod1357">
 Rodrigo Silva</a>
- <br />
+<br />
 
- <a href="https://github.com/GuBernardes">
+<a href="https://github.com/GuBernardes">
 Gustavo Bernardes</a>
- <br />
+<br />
 
-  <a href="https://github.com/Joao-Henrique-X">
+<a href="https://github.com/Joao-Henrique-X">
 João Henrique</a>
- <br />
+<br />
 ---
 
 <!-- ---------------------------------------------------------------------- -->
-
-
