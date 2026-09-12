@@ -11,7 +11,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
- <a href="#-o-que-eu-fiz">O que eu fiz</a> •
+  <a href="#o-que-eu-fiz">O que eu fiz</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-resultados-obtidos">Resultados Obtidos</a> •
@@ -51,6 +51,8 @@ O desenvolvimento foi realizado por uma equipe de 10 estudantes, onde cada integ
 * Navegação intuitiva e acessível.
 
 ---
+
+<!-- MODELO SOBRE A MINHA PARTE DO SITE: -->
 
 ## 👨‍💻 O que eu fiz
 
