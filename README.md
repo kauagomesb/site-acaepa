@@ -11,7 +11,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
-  <a href="#o-que-eu-fiz">O que eu fiz</a> •
+ <a href="#-o-que-eu-fiz">O que eu fiz</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-resultados-obtidos">Resultados Obtidos</a> •
@@ -54,7 +54,7 @@ O desenvolvimento foi realizado por uma equipe de 10 estudantes, onde cada integ
 
 <!-- MODELO SOBRE A MINHA PARTE DO SITE: -->
 
-## 👨‍💻 O que eu fiz
+## 👦 O que eu fiz
 
 Fui responsável pelo desenvolvimento da **página "Sobre"** do site, trabalhando principalmente na estrutura, estilização e interatividade da página.
 
@@ -125,16 +125,16 @@ O projeto proporcionou uma experiência prática de desenvolvimento de software 
 
 ## 🦸 Autor
 
+<a href="https://github.com/kauagomesb">
+Kauã Gomes Bezerra</a>
+<br />
+
 <a href="https://github.com/EsthefanySantos">
 Esthefany Santos</a>
 <br />
 
 <a href="https://github.com/matheusrsdeveloper">
 Matheus Rodrigues</a>
-<br />
-
-<a href="https://github.com/kauagomesb">
-Kauã Gomes</a>
 <br />
 
 <a href="https://github.com/JoaoMedeiros-Desenvolvedor">
